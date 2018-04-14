@@ -1,7 +1,3 @@
-/**
- * Tumblr Boombox Script 
- * github @robinpx  
- **/
 var boombox = function() {
     
 var audioFiles = [];
